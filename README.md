@@ -1,24 +1,10 @@
-# frp-2
+FRP Unlock
+===========
 
-## Project setup
-```
-npm install
-```
+纯 Web 端的 FRP 解锁工具。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 相关技术参考
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [FRP 分区格式](https://github.com/aosp-mirror/platform_frameworks_base/blob/android10-release/services/core/java/com/android/server/PersistentDataBlockService.java#L69)
+* [FileReader API](https://developer.mozilla.org/zh-CN/docs/Web/API/FileReader)
+* [SubtleCrypto API](https://developer.mozilla.org/zh-CN/docs/Web/API/SubtleCrypto)
