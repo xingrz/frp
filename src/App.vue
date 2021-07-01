@@ -75,7 +75,7 @@
       </div>
     </el-card>
     <footer>
-      Copyright (C) 2019-2020 XiNGRZ
+      Copyright (C) 2019-2021 XiNGRZ
     </footer>
   </div>
 </template>
